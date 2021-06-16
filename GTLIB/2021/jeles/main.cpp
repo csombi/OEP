@@ -164,7 +164,7 @@ int main( void )
   try
   {
     std::string filename = "input.txt";
-    //  KÖZEPES
+    //  Kï¿½ZEPES
     /*
     SeqInFileEnumerator<Server> enor( filename );
     */
@@ -209,7 +209,7 @@ int main( void )
 
   } catch( WorstEnor::Errors e )
   {
-    std::cout << "A fájl nem létezik.\n";
+    std::cout << "A fï¿½jl nem lï¿½tezik.\n";
   }
 
 
