@@ -1,0 +1,5 @@
+JANI Kiliti0512 Ponty 4 Ponty 3 Harcsa 2
+LAJOS Verseny01 Ponty 56 Ponty 12 Kakadu 12 Ponty 23
+KARCSI Verseny02 Lajos 23 Bala 43 Azta 123
+PISTA Verseny03 Keszeg 59 Ponty 23
+BELA Verseny04 Karo 23 Keszeg 1 Ponty 0.2

@@ -1,0 +1,3 @@
+A B 0001Suli futas100 1
+A B C 0002Suli futas100 1 futas200 2
+A B C D 0003Suli futas100 1 futas200 2 futas300 3

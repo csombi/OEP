@@ -1,0 +1,4 @@
+Adjuk meg, hogy egy szekvenciális input fájlban rendezve tárolt egész számok közül azt,
+hogy melyik számból található a legtöbb!
+
+A feladat megoldásához használjon egyedi felsorolót!

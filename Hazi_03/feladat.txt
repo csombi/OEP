@@ -1,0 +1,10 @@
+Egy számítógépes fájlrendszerben a fájlokat könyvtárakba szervezzük. 
+Minden könyvtár tetszőleges számú fájlt vagy könyvtárat tartalmazhat. 
+A fájlrendszerben a fájlok lehetnek közvetlen a fájlrendszerhez kötve (gyökér), vagy valamelyik könyvtárban is elhelyezkedhetnek. 
+Mennyi tárhelyet foglal egy adott könyvtár?
+
+Implementálja a fájlrendszert. 
+Egy bejegyzésnek legyen neve és mérete. 
+A fájlok mérete egy int-ben eltárolható. 
+A mappák mérete a tartalmuktól függ, ezt ki lehet számolni lekérdezésnél vagy minden bejegyzés hozzáadásnál/kivételnél módosítani kell. 
+A főprogramban lehessen kipróbálni a fájlrendszert (le lehessen kérdezni egy könyvtár tartalmát, lehessen bejegyzéseket berakni/kivenni és le lehessen kérdezni egy bejegyzés méretét).

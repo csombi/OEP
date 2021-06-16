@@ -1,0 +1,11 @@
+Komplex számok implementálása a táblás gyakorlat tervei alapján.
+Szükséges műveletek: +, -, *, /
+
+Készítsen menüvel rendelkező programot a típus használatához.
+(Pl.:
+Összeadáshoz nyomja meg az 1-es gombot
+Szorzáshoz nyomja meg...)
+
+Komplex szám beolvasása és kiírása kényelmes és szemléletes legyen.
+(Pl.: kiírásnál egy komplex szám a+b*i alakban jelenjen meg,
+vagy ha b negatív, akkor a-|b|i alakban)
